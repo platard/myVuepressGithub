@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,a as e,b as o}from"./app-84a341cd.js";const r={},n=e("h1",{id:"here-my-contact-file",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#here-my-contact-file","aria-hidden":"true"},"#"),o(" Here my contact file")],-1),s=[n];function _(i,d){return a(),c("div",null,s)}const h=t(r,[["render",_],["__file","about.html.vue"]]);export{h as default};

@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as o,a as e,b as r}from"./app-84a341cd.js";const c={},n=e("h1",{id:"here-my-home",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#here-my-home","aria-hidden":"true"},"#"),r(" Here my Home")],-1),s=[n];function _(d,h){return a(),o("div",null,s)}const m=t(c,[["render",_],["__file","index.html.vue"]]);export{m as default};
